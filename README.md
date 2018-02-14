@@ -27,7 +27,7 @@ This repository contains commits from 5 different github users to enhance the co
 **Name :** Engy Ahmed Fawaz
 **Tutorial :** T-17
 **ID :** 37-0690
-***About :*** Shopaholic
+***About :*** Shopaholic :') 
 
 ##### Member 5:
 **Name :** Youssef Tarek
