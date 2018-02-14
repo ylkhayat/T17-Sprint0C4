@@ -24,10 +24,10 @@ This repository contains commits from 5 different github users to enhance the co
 ***About :*** Lead Singer
 
 ##### Member 4:
-**Name :** Engy Ahmed
+**Name :** Engy Ahmed Fawaz
 **Tutorial :** T-17
 **ID :** 37-0690
-***About :*** Front-End Developer
+***About :*** Shopaholic
 
 ##### Member 5:
 **Name :** Youssef Tarek
